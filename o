@@ -1,0 +1,13 @@
+path: /home/$USER/yolo_project/dataset
+train: images/train
+val: images/val
+
+
+Name:
+  0: person
+
+
+
+
+
+

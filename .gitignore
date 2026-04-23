@@ -1,0 +1,7 @@
+venv/
+FLIR_ADAS_v2.zip.00
+FLIR_ADAS_v2.zip.01
+__pycache__/
+*.pyc
+.env
+.claude/
