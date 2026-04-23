@@ -1,0 +1,35 @@
+# Large binary/dataset files
+*.zip
+*.zip.*
+*.z01
+*.z02
+*.z03
+*.tar
+*.tar.gz
+
+# Model weights
+*.pt
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Temp files
+*.tmp.*
+o
+
+# Claude internal
+.claude/
+
+# Dataset directories (too large)
+flir_dataset/
+flir_yolo/
+datasets/
+dataset/
+runs/

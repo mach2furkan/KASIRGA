@@ -1,0 +1,6 @@
+path: /home/bisavunma/yolo_project/dataset
+train: images/train
+val: images/val
+
+names:
+  0: Human
